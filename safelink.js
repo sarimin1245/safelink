@@ -129,7 +129,7 @@ j++;
 }
 if (a_to_vh == false) {
 var encryptedUrl = Base64.encode(a_to_vi);
-a_to_ve[i].href = "https://newtekno41.com/cara-mudah-memasang-aplikasi-play-store-yang-terhapus-di-android/?url=" + encryptedUrl;
+a_to_ve[i].href = "https://newtekno41.com/safelink/?url=" + encryptedUrl;
 a_to_ve[i].rel = "nofollow";
 a_to_vb++;
 a_to_vc += i + ":::" + a_to_ve[i].href + "\n";
